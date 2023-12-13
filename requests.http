@@ -1,0 +1,3 @@
+### GET all products
+
+GET https://fakestoreapi.com/products
